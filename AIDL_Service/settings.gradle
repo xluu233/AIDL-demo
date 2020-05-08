@@ -1,0 +1,2 @@
+rootProject.name='AIDL_Service'
+include ':app'
